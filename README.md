@@ -1,5 +1,5 @@
 # seleniumtest
-Automation testing login & register
-Positive & negative testing
-https://www.saucedemo.com/
+Automation testing login & register. </br>
+Positive & negative testing. </br>
+https://www.saucedemo.com/ </br>
 https://parabank.parasoft.com/parabank/index.htm
